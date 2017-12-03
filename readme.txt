@@ -30,6 +30,10 @@ Features
 3. In your Widgets menu, simply drag the widget labeled "Login Attempt Limit" into a widget area.
 4. Configure the it's setting from tools => Limit Login Attempts
 
+Please visit our official page for <a href="http://docs.themeegg.com/docs/login-attempt-limit/" target="_blank">Documentation and more information</a>.
+
+Get free support at http://themeegg.com/support-forum/
+
 == Frequently Asked Questions ==
 
 = What is the plugin license? =
