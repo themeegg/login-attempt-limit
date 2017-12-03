@@ -1,4 +1,4 @@
-Login Limit Attempt - Login Limit Attempt for wordpress
+Login Attempt Limit - Login Attempt Limit for wordpress
 
 Copyright 2017 by the contributors
 
@@ -18,9 +18,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 This program incorporates work covered by the following copyright and
 permission notices:
 
-  Login Limit Attempt is Copyright (c) 2017 ThemeEgg
+  Login Attempt Limit is Copyright (c) 2017 ThemeEgg
 
-  Login Limit Attempt is released under the GPL
+  Login Attempt Limit is released under the GPL
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
