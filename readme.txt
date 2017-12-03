@@ -32,6 +32,18 @@ Features
 
 == Frequently Asked Questions ==
 
+= What is the plugin license? =
+
+* This plugin is released under a GPL license.
+
+= Does the plugin work with any WordPress themes?
+
+Yes, the plugin is designed to work with any themes that have been coded following WordPress guidelines.
+
+= I would like to contribute, do you have any option for that ?
+
+Yes, You can contribute to this plugin to make more awesome on Github [Login Attempt Limit](https://github.com/themeegg/login-attempt-limit)
+
 == Screenshots ==
 
 
